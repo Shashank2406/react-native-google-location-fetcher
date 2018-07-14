@@ -1,5 +1,12 @@
 # react-native-google-location-fetcher
-Google Location Fetcher for iOS and Android React-Native apps
+Google Location Fetcher for iOS and Android React-Native apps, this package is in heavy development phase.
+
+## PLANNED FEATURES
+
+- [x] Get Location Coordinates
+- [ ] Reverse Geocoding from Google API
+- [ ] Get Location Name from Google API
+- [ ] Get any Location Coordintes from Google API
 
 ### Example
 
