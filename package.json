@@ -1,0 +1,32 @@
+{
+  "author": {
+    "name": "Shashank Srivastava"
+  },
+  "dependencies": {
+    "lodash.debounce": "^4.0.8",
+    "prop-types": "^15.5.10",
+    "qs": "^5.2.0"
+  },
+  "description": "Google Location Fetcher for iOS and Android React-Native apps",
+  "devDependencies": {
+    "eslint": "^1.9.0",
+    "eslint-config-airbnb": "^1.0.0",
+    "eslint-plugin-react": "^3.9.0"
+  },
+  "keywords": [
+    "location",
+    "google",
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "main": "GoogleLocationFetcher.js",
+  "name": "react-native-google-location-fetcher",
+  "peerDependencies": {
+    "react-native": ">= 0.46"
+  },
+  "scripts": {
+    "test": "./node_modules/eslint/bin/eslint.js GoogleLocationFetcher.js"
+  },
+  "version": "0.0.1"
+}
