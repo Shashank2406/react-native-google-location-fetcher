@@ -16,6 +16,10 @@ Google Location Fetcher for iOS and Android React-Native apps
 2. Get your [Google Places API keys](https://developers.google.com/places/) and enable "Google Places API Web Service" (NOT Android or iOS) in the console.
 3. Enable "Google Maps Geocoding API" if you want to use GoogleReverseGeocoding for Current Location
 
+For Android: add the following line in your AndroidManifest.xml
+```xml
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+```
 
 ### Example
 
